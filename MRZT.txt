@@ -1,0 +1,43 @@
+----------------------------------------------------
+ATLASSIAN OS v0.47
+----------------------------------------------------
+&nbsp;
+Press [ESC] to exit
+&nbsp;
+<span id="a">\\Root\ATL-srg&gt;</span><span id="b">login <!-- GehfgZrQrkLbhUnirGbGehfgZrGurerfAbJnlLbhErtergVg -->_MRZT721010_#7210</span>
+&nbsp;
+Enter Your Username: _MRZT721010_
+Enter Your Password: *********
+<span style="color: transparent">WWVzIEknbSAxOSBhcyBvZiBub3c</span>
+Login session was successful. <span id="k">Welcome, _MRZT721010_!</span>
+Type [cmds] to see all of the available commands.
+&nbsp;
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
+Reciving submited information...
+<span style="color: transparent">YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kL CBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZAp jaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVn YXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</span>
+Hello, I'm Mohammadreza, but you can call me MRZT (I'd actually prefer calling me this). An average person on the internet who hangs out with friends on <span id="c" onclick="copyToClipboard('_MRZT721010_#7210')">Discord</span> and enjoys playing video games and programming.
+Contributing to community projects is my passion. I'll be happy if you come to <span id="c"><a href="https://github.com/mrzt721010" target="_blank">my Github profile</a></span> and check my Organizations!
+Want to know me more? then let us be friends!
+&nbsp;
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 | Also, if you've ever wondered what my avatar does refer to, it's the Cultist from EtD -->view prof.json</span>
+{
+    Java: "<span id="c">Student | Developer</span>",
+    Minecraft: "<span id="c">Server Developer | Plugin Developer</span>",
+    UE4/5: "<span id="c">Game Designer | Character Artist | Gameplay Engineer</span>",
+    Adobe illustrator: "<span id="c">Graphic Designer</span>",
+    C++: "<span id="c">Ordinary Developer</span>",
+    22x5: SaF3o5VAt_ALla56Mi8AN_RA2h3GoZ11ar
+}
+&nbsp;
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/950628322067480606/954039601725599844/connection_terminated_reza.mp4 | Btw, I change my profile avatar each season -->view links.json</span>
+{
+    Discord: "<span id="c">_MRZT721010_#7210</span>",
+    GitHub: "<span id="c">mrzt721010</span>",
+    Email: "<span id="c">mrzt721010@yahoo.com</span>"
+}
+&nbsp;
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b">logout</span>
+<span style="color: transparent">Ronald, I still didn't know that you own the unusual ghastly gibus O;</span>
+Successfully logged out! Hope you have a wonderful day on Atlassian!
+&nbsp;
+<span id="a">\\Root\ATL-srg&gt;&nbsp;</span>
