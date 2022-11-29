@@ -25,7 +25,7 @@ Want to know me more? then let us be friends!
     UE4/5: "<span id="c">Game Designer | Character Artist | Gameplay Engineer</span>",
     Minecraft: "<span id="c">Server Developer | Plugin Developer</span>",
     Adobe illustrator: "<span id="c">Graphic Designer</span>",
-    C++: "<span id="c">Ordinary Developer</span>",
+    C++: "<span id="c">Professional Developer</span>",
     Java: "<span id="c">Student</span>",
     22x5: SaF3o5VAt_ALla56Mi8AN_RA2h3GoZ11ar
 }
