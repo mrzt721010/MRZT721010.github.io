@@ -23,7 +23,6 @@ Want to know me more? then let us be friends!
 <span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 | Also, if you've ever wondered what my avatar does refer to, it's the Cultist from EtD -->view prof.json</span>
 {
     UE4/5: "<span id="c">Game Designer | Character Artist | Gameplay Engineer</span>",
-    Minecraft: "<span id="c">Server Developer | Plugin Developer</span>",
     Adobe illustrator: "<span id="c">Graphic Designer</span>",
     C++: "<span id="c">Professional Developer</span>",
     Java: "<span id="c">Junior Developer</span>",
