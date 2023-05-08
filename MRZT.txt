@@ -13,7 +13,7 @@ Login session was successful. <span id="k">Welcome, _MRZT721010_!</span>
 Type [cmds] to see all of the available commands.
 &nbsp;
 <span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
-Reciving submited information...
+Receiving submitted information...
 <span style="color: transparent">YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kL CBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZAp jaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVn YXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</span>
 Hello, I'm Mohammadreza, but you can call me MRZT (I'd actually prefer to call me this). An average person on the internet who hangs out with friends on <span id="c" onclick="copyToClipboard('_MRZT721010_#7210')">Discord</span> and enjoys playing video games and programming.
 I love traveling and going to nature whenever getting a chance!
