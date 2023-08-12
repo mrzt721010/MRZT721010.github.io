@@ -8,36 +8,35 @@ Press [ESC] to exit
 &nbsp;
 Enter Your Username: _MRZT721010_
 Enter Your Password: *********
-<span style="color: transparent">WWVzIEknbSAxOSBhcyBvZiBub3c</span>
+<span style="color: transparent">John Locke : “Don’t tell me what I can’t do.” </span>
 Login session was successful. <span id="k">Welcome, _MRZT721010_!</span>
 Type [cmds] to see all of the available commands.
 &nbsp;
 <span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><!-- A Wttx Vwvpz Rwjgpb Kwm --><span id="b">view Info.txt</span>
 Receiving submitted information...
-<span style="color: transparent">YmFuaSBhZGFtIGF6YXllIHlla2RpZ2FyYW5kL CBrZSBkYXIgYWZhcmluZXNoIHplIHllayBnb2hhcmFuZAp jaG8gb3p2aSBiZSBkYXJkIGF2YXJhZCByb296ZWdhciwgZGVn YXIgb3p2IGhhcmEgbmFtYW5hZCBnaGFyYXI</span>
+<span style="color: transparent">“So I just made a choice. I would let the fear in, let it take over, let it do it’s thing. But only for five seconds. That’s all I was going to give it.”</span>
 Hello, I'm Mohammadreza, but you can call me MRZT (I'd actually prefer to call me this). An average person on the internet who hangs out with friends on <span id="c" onclick="copyToClipboard('_MRZT721010_#7210')">Discord</span> and enjoys playing video games and programming.
 I love traveling and going to nature whenever getting a chance!
 Contributing to community projects is my passion. I'll be happy if you come to <span id="c"><a href="https://github.com/mrzt721010" target="_blank">my GitHub profile</a></span> and check my Organizations!
 Want to know me more? Then let us be friends!
 &nbsp;
-<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 | Also, if you've ever wondered what my avatar does refer to, it's the Cultist from EtD -->view prof.json</span>
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/476322512129622016/950712219581169674/Mazmaz-1.mp4 | Also, if you've ever wondered what my avatar does refer to, it's Benjamin Linus from Lost series -->view prof.json</span>
 {
     UE4/5: "<span id="c">Game Designer | Character Artist | Gameplay Engineer</span>",
     Adobe illustrator: "<span id="c">Graphic Designer</span>",
     C++: "<span id="c">Professional Developer</span>",
-    Java: "<span id="c">Junior Developer</span>",
-    22x5: SaF3o5VAt_ALla56Mi8AN_RA2h3GoZ11ar
+    Java: "<span id="c">Junior Developer</span>"
 }
 &nbsp;
-<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/950628322067480606/954039601725599844/connection_terminated_reza.mp4 | Btw, I change my profile avatar each season -->view links.json</span>
+<span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b"><!-- https://cdn.discordapp.com/attachments/950628322067480606/954039601725599844/connection_terminated_reza.mp4 | Btw, I change my profile banner each season -->view links.json</span>
 {
-    Discord: "<span id="c">_MRZT721010_#7210</span>",
+    Discord: "<span id="c">MRZT721010</span>",
     GitHub: "<span id="c">mrzt721010</span>",
     Email: "<span id="c">mrzt721010@yahoo.com</span>"
 }
 &nbsp;
 <span id="a">\\Root\ATL-srg\_MRZT721010_&gt;</span><span id="b">logout</span>
-<span style="color: transparent">Ronald, I still didn't know that you own the unusual ghastly gibus O;</span>
+<span style="color: transparent">You’ll understand soon enough that there are consequences to being chosen, because destiny, John, is a fickle bitch.</span>
 Successfully logged out! Hope you have a wonderful day on Lost!
 &nbsp;
 <span id="a">\\Root\ATL-srg&gt;&nbsp;</span>
